@@ -9,8 +9,8 @@ Creating new react redux based app for learning purpose
   <li>Easily Debuggable using Redux DevTools</li>
   <li></li>
   </ul>
-==========================================
------<h2>Redux Life Cycle WIth Example(Railway Ticket)</h2>------
+
+<h2>Redux Life Cycle WIth Example(Railway Ticket)</h2>
 
 
   ![reduxlifecycle](reduxlifecycle.drawio.svg)
