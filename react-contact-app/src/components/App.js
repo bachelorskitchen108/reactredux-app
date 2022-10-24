@@ -12,7 +12,7 @@ function App() {
   );
 
   const addContactHandler = (contact) => {
-    console.log(contact);
+    console.log("From App File", contact);
     setContacts([...contacts, { id: uuid(), ...contact }]);
   };
 
